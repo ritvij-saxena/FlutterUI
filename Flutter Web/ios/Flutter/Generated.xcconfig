@@ -1,0 +1,7 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=D:\Flutter Course\flutter_windows_v1.0.0-stable\flutter
+FLUTTER_APPLICATION_PATH=D:\Flutter Web Projects\dashboard-demo
+FLUTTER_TARGET=lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build\ios
+FLUTTER_FRAMEWORK_DIR=D:\Flutter Course\flutter_windows_v1.0.0-stable\flutter\bin\cache\artifacts\engine\ios
